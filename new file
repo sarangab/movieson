@@ -1,0 +1,7 @@
+//set content type header to text/json
+
+//echo json_encode (array movie)
+techorus.net smtp
+javascript will query for autocomplete
+
+for each result array as value , echo value concat value with semicolon.//semicolon separated list of movies.
